@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in Banking Systems, AI/ML
+- 👀 I’m interested in eberything related to TECH!
 - 🌱 I’m currently learning Java, Angular
 - 🥅 To build a suites of open source apps for managing day to day tasks, while ensuring privacy👀 to users.

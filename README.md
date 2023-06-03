@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in eberything related to TECH!
-- 🌱 I’m currently learning Java, Angular
+- 👀 I’m interested in everything related to TECH!
+- 🌱 I’m currently learning Java, Angular and Spring
 - 🥅 To build a suites of open source apps for managing day to day tasks, while ensuring privacy👀 to users.
